@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color:
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .bienvenida{
@@ -7,6 +7,7 @@ body{
     color: burlywood;
 }
 .--copyright--{
+    background-color: black;
     color: cornsilk;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
