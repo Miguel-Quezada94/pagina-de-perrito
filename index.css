@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bienvenida{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: burlywood;
+}
+.--copyright--{
+    color: cornsilk;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
